@@ -39,6 +39,10 @@ CustomTkinter
 Matplotlib
 
 PIL (Python Imaging Library)
+# DEMO PHOTO
+![Data Flow Diagram](demo_1.png)
+![Data Flow Diagram](demo_2.png)
+
 
 
 # 1. Clone the repository
