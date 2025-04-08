@@ -3,3 +3,4 @@ customtkinter
 matplotlib
 Pillow
 opencv-python
+flask
