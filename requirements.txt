@@ -1,0 +1,5 @@
+pymongo
+customtkinter
+matplotlib
+Pillow
+opencv-python
